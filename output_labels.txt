@@ -1,0 +1,3 @@
+moveforward
+spinleft
+spinright
